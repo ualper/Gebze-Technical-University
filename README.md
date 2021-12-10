@@ -1,13 +1,10 @@
+
 # Gebze-Technical-University_Courses
-Repository of homework and projects of my university courses.
+
+## Repository of homework and projects of my university courses.
 
 
-## Plugins
-
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
-| COURSES | README |
+| COURSE | LINK |
 | ------ | ------ |
-| CSE 341 - PROGRAMMING LANGUAGES | [plugins/dropbox/README.md][PlDb] |
+| CSE 341 - PROGRAMMING LANGUAGES | [https://github.com/ualper/Gebze-Technical-University_Courses/tree/main/CSE%20341%20-%20Programming%20Languages][PlDb] |
 
