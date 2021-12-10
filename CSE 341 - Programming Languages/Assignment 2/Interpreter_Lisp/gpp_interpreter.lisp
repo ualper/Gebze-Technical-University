@@ -634,12 +634,7 @@
     (terpri)
 )
 (defun GPPINTERPRETER() 
-    (format t "###############################################################~%")
-    (format t "################ THIS IS THE G++ INTERPRETER ##################~%")
-    (format t "################    GOKHAN HAS - 161044067   ##################~%")
-    (format t "#### g++ dosyaismi.g++ yazarak dosyadan test edebilirsiniz ####~%")
-    (format t "###################  g++ helloword.g++  #######################~%")
-    (format t "###############################################################~%")
+    (format t "========================================================~%")
     (setq number 1)
     (loop 
         (terpri)
@@ -680,7 +675,7 @@
                     (format t "BYE.")
                 )
             )
-            (progn ;; Dosyadan okuma yapılacak ..
+            (progn 
                 (setq number (+ number 1))
                 (setq read_string (subseq read_string 4 (length read_string)))
                 (setq line2 "")
