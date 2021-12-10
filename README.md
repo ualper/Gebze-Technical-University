@@ -6,5 +6,5 @@
 
 | COURSE | LINK |
 | ------ | ------ |
-| CSE 341 - PROGRAMMING LANGUAGES | [Gebze-Technical-University_Courses/CSE 341 - Programming Languages//README.md][PlDb] |
+| CSE 341 - PROGRAMMING LANGUAGES | [CSE 341 - Programming Languages//README.md][PL] |
 
