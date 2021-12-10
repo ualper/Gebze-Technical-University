@@ -6,5 +6,5 @@
 
 | COURSE | LINK |
 | ------ | ------ |
-| CSE 341 - PROGRAMMING LANGUAGES | [https://github.com/ualper/Gebze-Technical-University_Courses/blob/main/CSE%20341%20-%20Programming%20Languages/README.md][PlDb] |
+| CSE 341 - PROGRAMMING LANGUAGES | [Gebze-Technical-University_Courses/CSE 341 - Programming Languages//README.md][PlDb] |
 
